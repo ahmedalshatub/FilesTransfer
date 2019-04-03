@@ -1,0 +1,84 @@
+#TopImage{
+    width: 100%;
+    height: 200px;
+    
+    
+    
+}
+#ALinks a{
+    margin-right: 60px;
+    float: right;
+    color: black;
+}
+#LeftContent{
+     margin-left: 5%;
+    width: 25%;
+    height: 180px;
+    border: 1px solid black;
+    float: left;
+}
+#RightContent{
+       width: 60%;
+    height: 180px;
+    border: 1px solid black;
+      margin-left: 35%;
+
+}
+#LeftContent ul li a{
+    text-decoration: none;
+    color: black;
+    
+    
+}
+
+#MuImage{
+    width: 200px;    height: 100px;
+
+    
+    
+}
+#PImage{
+    float: right;
+    
+}
+#BotomContent{
+     width: 90%;
+      height: 140px;
+       border: 1px solid black;
+}
+
+.Product{
+    float: left;
+    width: 220px;
+    height: 237px;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 40px;
+    
+}
+.Detals{
+    margin-top: -15px;
+    background-color: blue;
+    color: white;
+    
+    
+}
+.PrImage{
+    width: 200px;
+    height: 200px;;
+}
+#Content1{
+    width: 60%;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
